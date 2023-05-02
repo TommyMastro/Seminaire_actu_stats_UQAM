@@ -1,1 +1,1 @@
-# Seminaire_actu_stats_UQAM_2023
+# Seminaire d'été à l'UQAM pour les étudiants en actuariat/statistique - 2023
