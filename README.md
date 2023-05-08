@@ -12,10 +12,10 @@ Les slides sont accessibles [ici](Slides/) ainsi que dans l'horaire des présent
 
 ---
 ### Horaire des prochaines présentations
-**Date** | **Présentateur/trice** | **Titre** | **Slides**
-:---: | :---: | :---: | :---:
-17 mai | --- | --- | ---
-17 mai | --- | --- | ---
+**Date** | **Présentateur/trice** | **Titre**
+:---: | :---: | :---:
+17 mai | --- | ---
+17 mai | --- | ---
 
 
 ### Présentations précédentes
