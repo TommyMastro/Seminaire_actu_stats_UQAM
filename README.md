@@ -16,8 +16,8 @@ Les slides sont accessibles [ici](Slides/) ainsi que dans l'horaire des présent
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-17 mai | Raïssa Coulibaly | Système bonus/malus pour la tarification en assurance automobile
-17 mai | À déterminer | À déterminer
+17 mai | Raïssa Coulibaly | Système bonus/malus en assurance automobile
+17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3!
 
 
 ### Présentations précédentes
