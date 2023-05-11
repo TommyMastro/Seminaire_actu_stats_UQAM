@@ -17,7 +17,7 @@ Les slides sont accessibles [ici](Slides/) ainsi que dans l'horaire des présent
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
 17 mai | Raïssa Coulibaly | Système bonus/malus pour la tarification en assurance automobile
-17 mai | Mélanie Raymond | ---
+17 mai | À déterminer | À déterminer
 
 
 ### Présentations précédentes
