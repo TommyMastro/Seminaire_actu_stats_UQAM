@@ -10,8 +10,6 @@ Bienvenue, amateurs de mathématiques probabilistes! Au cours de cet été sera 
 
 Les présentations auront lieu tous les <ins> **mercredis** de **11h** à **12h** au **PK-2605** à partir du **17 mai**. </ins>
 
-Les slides sont accessibles [ici](Slides/) ainsi que dans l'horaire des présentations.
-
 ---
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
@@ -21,5 +19,5 @@ Les slides sont accessibles [ici](Slides/) ainsi que dans l'horaire des présent
 
 
 ### Présentations précédentes
-**Date** | **Présentateur/trice** | **Sujet** | **Slides**
-:---: | :---: | :---: | :---:
+**Date** | **Présentateur/trice** | **Sujet**
+:---: | :---: | :---:
