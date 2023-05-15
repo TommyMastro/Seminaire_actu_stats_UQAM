@@ -14,7 +14,7 @@ Les présentations auront lieu tous les <ins> **mercredis** à partir du **17 ma
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-17 mai | Raïssa Coulibaly | Système bonus/malus en assurance automobile
+17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance
 17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3!
 
 
