@@ -26,7 +26,7 @@ ou en contactant directement les organisateurs :
 24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies
 
 ### Présentations précédentes
-**Date** | **Présentateur/trice** | **Sujet**
-:---: | :---: | :---:
-17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance
-17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3!
+**Date** | **Présentateur/trice** | **Sujet** | **Slides**
+:---: | :---: | :---: | :---: 
+17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance | [Cliquez ici](Slides/Raissa_Coulibaly_Modèles_Primes_Assurance.pdf)
+17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3! | [Cliquez ici](https://www.patrickfournier.ca/talk-floating-point-numbers/)
