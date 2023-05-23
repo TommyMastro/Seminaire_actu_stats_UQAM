@@ -23,6 +23,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
+24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet**
