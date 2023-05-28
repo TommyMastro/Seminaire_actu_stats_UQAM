@@ -23,10 +23,11 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies
+7 juin | Francis Duval | Le pouvoir du xaringan: créez des présentations élégantes et reproductibles avec RMarkdown
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
 17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance | [Cliquez ici](Slides/Raissa_Coulibaly_Modèles_Primes_Assurance.pdf)
 17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3! | [Cliquez ici](https://www.patrickfournier.ca/talk-floating-point-numbers/)
+24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies | [Cliquez ici](Slides/Brice_Zotsa_Épidémies.pdf)
