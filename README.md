@@ -23,7 +23,8 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe
+21 juin | Alice Morinière | À déterminer
+28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
@@ -32,3 +33,4 @@ ou en contactant directement les organisateurs :
 17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3! | [Cliquez ici](https://www.patrickfournier.ca/talk-floating-point-numbers/)
 24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies | [Cliquez ici](Slides/Brice_Zotsa_Épidémies.pdf)
 7 juin | Francis Duval | Le pouvoir du xaringan: créez des présentations élégantes et reproductibles avec RMarkdown | [Cliquez ici](https://francisduval.github.io/presentation_xaringan/#1)
+14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe | [Cliquez ici](Slides/Clara_Lacourarie_Transmission_Émotions.pdf)
