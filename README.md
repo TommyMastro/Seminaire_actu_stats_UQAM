@@ -23,7 +23,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-21 juin | Alice Morinière | À déterminer
+21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie
 28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes
 
 ### Présentations précédentes
