@@ -23,7 +23,6 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
@@ -34,3 +33,4 @@ ou en contactant directement les organisateurs :
 7 juin | Francis Duval | Le pouvoir du xaringan: créez des présentations élégantes et reproductibles avec RMarkdown | [Cliquez ici](https://francisduval.github.io/presentation_xaringan/#1)
 14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe | [Cliquez ici](Slides/Clara_Lacourarie_Transmission_Émotions.pdf)
 21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie | [Cliquez ici](Slides/Alice_Morinière_Éléphant.pdf)
+28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides/Sébastien_Jessup_Combinaison.pdf)
