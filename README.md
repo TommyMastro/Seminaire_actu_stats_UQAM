@@ -34,3 +34,4 @@ ou en contactant directement les organisateurs :
 14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe | [Cliquez ici](Slides/Clara_Lacourarie_Transmission_Émotions.pdf)
 21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie | [Cliquez ici](Slides/Alice_Morinière_Éléphant.pdf)
 28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides/Sébastien_Jessup_Combinaison.pdf)
+12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides/Mélanie_Raymond_Apprentissage.pdf)
