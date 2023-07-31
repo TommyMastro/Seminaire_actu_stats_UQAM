@@ -23,6 +23,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
+2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
