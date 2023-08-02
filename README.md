@@ -23,7 +23,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche
+
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
@@ -36,3 +36,4 @@ ou en contactant directement les organisateurs :
 21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie | [Cliquez ici](Slides/Alice_Morinière_Éléphant.pdf)
 28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides/Sébastien_Jessup_Combinaison.pdf)
 12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides/Mélanie_Raymond_Apprentissage.pdf)
+2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche | [Cliquez ici](Slides/Tommy_Mastromonaco_Bassin.pdf)
