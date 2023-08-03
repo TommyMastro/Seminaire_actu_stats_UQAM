@@ -23,7 +23,8 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-
+9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés
+16 août | Louis-Pierre Ménard | À déterminer
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
