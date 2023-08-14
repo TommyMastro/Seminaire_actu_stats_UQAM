@@ -23,8 +23,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés
-16 août | Louis-Pierre Ménard | À déterminer
+16 août | Louis-Pierre Ménard | L’analyse statistique de formes appliquée aux contours détectés dans une image
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
@@ -38,3 +37,4 @@ ou en contactant directement les organisateurs :
 28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides/Sébastien_Jessup_Combinaison.pdf)
 12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides/Mélanie_Raymond_Apprentissage.pdf)
 2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche | [Cliquez ici](Slides/Tommy_Mastromonaco_Bassin.pdf)
+9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés | Cliquez ici
