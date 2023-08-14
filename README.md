@@ -2,7 +2,7 @@
 
 ---
 
-## La dernière séance pour cet été aura lieu le 16 août. <!-- Des pizzas seront servies pour célébrer la fin du séminaire! -->
+## La dernière séance pour cet été aura lieu le 16 août. Des pizzas seront servies pour célébrer la fin du séminaire!
 
 ---
 
