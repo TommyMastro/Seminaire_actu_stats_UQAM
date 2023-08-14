@@ -2,6 +2,10 @@
 
 ---
 
+## La dernière séance pour cet été aura lieu le 16 août. <!-- Des pizzas seront servies pour célébrer la fin du séminaire! -->
+
+---
+
 Bienvenue, amateurs de mathématiques probabilistes! Au cours de cet été sera tenu un passionnant séminaire offert et organisé par des étudiant.e.s de l'UQAM. Tout stagiaire ou étudiant.e de maîtrise/doctorat intéressé par la statistique, les probabilités et leurs nombreux domaines d'application, est encouragé à y participer. Les professeur.e.s et les chercheurs/euses postdoctoraux sont évidemment le bienvenue. L'objectif de ce séminaire est de partager des travaux et des sujets de recherche qui nous intéressent dans un cadre festif et informel, ainsi que de s’informer sur les activités des autres membres du département.  
 
 Les présentations auront lieu tous les <ins> **mercredis** à partir du **17 mai** de **11h** à **12h** au local **PK-2605**. </ins>
