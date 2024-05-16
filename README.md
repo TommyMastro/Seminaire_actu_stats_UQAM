@@ -33,7 +33,7 @@ ou en contactant directement les organisateurs :
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
 
-
+---
 ### Été 2023
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
