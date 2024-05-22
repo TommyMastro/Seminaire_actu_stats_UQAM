@@ -27,24 +27,24 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-22 mai | Jean Velluet | Estimation non paramétrique dans des modèles de cladogénèse
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
+22 mai | Jean Velluet | Estimation non paramétrique dans des modèles de cladogénèse | [Cliquez ici](Slides2024/Jean_Velluet_Cladogénèse.pdf)
 
 ---
 ### Été 2023
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
-17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance | [Cliquez ici](Slides/Raissa_Coulibaly_Modèles_Primes_Assurance.pdf)
+17 mai | Raïssa Coulibaly | Quelques modèles de calcul des primes d'assurance | [Cliquez ici](Slides2023/Raissa_Coulibaly_Modèles_Primes_Assurance.pdf)
 17 mai | Patrick Fournier | Les nombres à virgule flottante : simple comme .1 + .2 = .3! | [Cliquez ici](https://www.patrickfournier.ca/talk-floating-point-numbers/)
-24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies | [Cliquez ici](Slides/Brice_Zotsa_Épidémies.pdf)
+24 mai | Brice Zotsa | Introduction aux modèles probabilistes d'épidémies | [Cliquez ici](Slides2023/Brice_Zotsa_Épidémies.pdf)
 7 juin | Francis Duval | Le pouvoir du xaringan: créez des présentations élégantes et reproductibles avec RMarkdown | [Cliquez ici](https://francisduval.github.io/presentation_xaringan/#1)
-14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe | [Cliquez ici](Slides/Clara_Lacourarie_Transmission_Émotions.pdf)
-21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie | [Cliquez ici](Slides/Alice_Morinière_Éléphant.pdf)
-28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides/Sébastien_Jessup_Combinaison.pdf)
-12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides/Mélanie_Raymond_Apprentissage.pdf)
-2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche | [Cliquez ici](Slides/Tommy_Mastromonaco_Bassin.pdf)
+14 juin | Clara Lacourarie | Un modèle de propagation émotionnelle et son application au cas de la motivation des élèves dans une salle de classe | [Cliquez ici](Slides2023/Clara_Lacourarie_Transmission_Émotions.pdf)
+21 juin | Alice Morinière | La marche de Dumbo, le petit éléphant à la mémoire infinie | [Cliquez ici](Slides2023/Alice_Morinière_Éléphant.pdf)
+28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides2023/Sébastien_Jessup_Combinaison.pdf)
+12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides2023/Mélanie_Raymond_Apprentissage.pdf)
+2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche | [Cliquez ici](Slides2023/Tommy_Mastromonaco_Bassin.pdf)
 9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés | ---
 16 août | Louis-Pierre Ménard | L’analyse statistique de formes appliquée aux contours détectés dans une image | ---
