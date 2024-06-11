@@ -27,6 +27,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
+12 juin | Adrien Cotil | Le modèle de Cucker-Smale: Flocking et apprentissage du réseau d'interaction
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
