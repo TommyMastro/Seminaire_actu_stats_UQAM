@@ -27,7 +27,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-
+26 juin | Iro René Kouafarte | Application de la simulation explicite pondérée du modèle 3/2 à la tarification d’options
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
