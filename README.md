@@ -27,7 +27,6 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
-26 juin | Iro René Kouafarte | Application de la simulation explicite pondérée du modèle 3/2 à la tarification d’options
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
@@ -35,6 +34,7 @@ ou en contactant directement les organisateurs :
 22 mai | Jean Velluet | Estimation non paramétrique dans des modèles de cladogénèse | [Cliquez ici](Slides2024/Jean_Velluet_Cladogénèse.pdf)
 12 juin | Adrien Cotil | Le modèle de Cucker-Smale: Flocking et apprentissage du réseau d'interaction | [Cliquez ici](Slides2024/Adrien_Cotil_Flocking.pdf)
 19 juin | Tommy Mastromonaco | Les mathématiques du rythme dans la musique | [Cliquez ici](Slides2024/Tommy_Mastromonaco_Musique.pdf)
+26 juin | Iro René Kouafarte | Application de la simulation explicite pondérée du modèle 3/2 à la tarification d’options | [Cliquez ici](Slides2024/Iro_René_Kouafarte_3-2.pdf)
 ---
 ### Été 2023
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
