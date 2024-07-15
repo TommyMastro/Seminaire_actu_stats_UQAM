@@ -27,6 +27,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des prochaines présentations
 **Date** | **Présentateur/trice** | **Sujet**
 :---: | :---: | :---:
+17 juillet | Florent Crouzet | Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques
 
 ### Présentations précédentes
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
