@@ -24,11 +24,7 @@ ou en contactant directement les organisateurs :
 
 
 ---
-### Horaire des prochaines présentations
-**Date** | **Présentateur/trice** | **Sujet**
-:---: | :---: | :---:
-
-### Présentations précédentes
+### Horaire des présentations
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
 22 mai | Jean Velluet | Estimation non paramétrique dans des modèles de cladogénèse | [Cliquez ici](Slides2024/Jean_Velluet_Cladogénèse.pdf)
