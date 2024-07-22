@@ -1,7 +1,5 @@
 # Séminaire de l'UQAM pour les étudiants en actuariat/statistique <br> Été 2024
 
----
-
 Bienvenue, amateurs de mathématiques probabilistes! Au cours de cet été sera tenu un passionnant séminaire offert et organisé par des étudiant.e.s de l'UQAM. Tout stagiaire ou étudiant.e de maîtrise/doctorat intéressé par la statistique, les probabilités et leurs nombreux domaines d'application, est encouragé à y participer. Les professeur.e.s et les chercheurs/euses postdoctoraux sont évidemment le bienvenue. L'objectif de ce séminaire est de partager des travaux et des sujets de recherche qui nous intéressent dans un cadre festif et informel, ainsi que de s’informer sur les activités des autres membres du département.  
 
 Les présentations auront lieu tous les <ins> **mercredis** à partir du **22 mai** de **11h** à **12h** au local **PK-3205**. </ins>
