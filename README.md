@@ -26,7 +26,7 @@ ou en contactant directement les organisateurs :
 19 juin | Tommy Mastromonaco | Les mathématiques du rythme dans la musique | [Cliquez ici](Slides2024/Tommy_Mastromonaco_Musique.pdf)
 26 juin | Iro René Kouafarte | Application de la simulation explicite pondérée du modèle 3/2 à la tarification d’options | [Cliquez ici](Slides2024/Iro_René_Kouafarte_3-2.pdf)
 17 juillet | Florent Crouzet | Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques | [Cliquez ici](Slides2024/Florent_Crouzet_TL.pdf)
-24 juillet | Ana Maria Patron | A novel approach on race prediction: Nested dichotomies applied to BISG
+24 juillet | Ana Maria Patron | A novel approach on race prediction: Nested dichotomies applied to BISG | [Cliquez ici](Slides2024/Ana_Maria_Race.pdf)
 ---
 ### Été 2023
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
