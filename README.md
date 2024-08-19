@@ -28,6 +28,8 @@ ou en contactant directement les organisateurs :
 17 juillet | Florent Crouzet | Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques | [Cliquez ici](Slides2024/Florent_Crouzet_TL.pdf)
 24 juillet | Ana Maria Patron | A novel approach on race prediction: Nested dichotomies applied to BISG | [Cliquez ici](Slides2024/Ana_Maria_Race.pdf)
 7 août | Agathe Fernandes Machado | From Uncertainty to Precision: Challenging Binary Classifier Performance through Calibration
+21 août | Galiane Charbonneau | Apprentissage d’arbres latents encodant la structure de dépendance extrémale de lois de Pareto multivariées
+21 août | Louis-Pierre Ménard | Ça fonctionne à peu près comme ça
 ---
 ### Été 2023
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
