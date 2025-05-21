@@ -25,7 +25,7 @@ ou en contactant directement les organisateurs :
 ### Horaire des présentations
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
-21 mai | Louis-Pierre Ménard | 
+21 mai | Louis-Pierre Ménard | Les fondements mathématiques de la détection de contours et de l'analyse d'images | ---
 
 ---
 
