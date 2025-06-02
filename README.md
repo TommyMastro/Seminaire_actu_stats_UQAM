@@ -26,6 +26,7 @@ ou en contactant directement les organisateurs :
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
 21 mai | Louis-Pierre Ménard | Les fondements mathématiques de la détection de contours et de l'analyse d'images | ---
+4 juin | Tommy Mastromonaco | Optimisation des paiements de dividendes avec injections obligatoires dans le modèle brownien | ---
 
 ---
 
