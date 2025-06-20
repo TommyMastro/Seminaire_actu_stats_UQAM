@@ -27,7 +27,7 @@ ou en contactant directement les organisateurs :
 :---: | :---: | :---: | :---: 
 21 mai | Louis-Pierre Ménard | Les fondements mathématiques de la détection de contours et de l'analyse d'images | ---
 4 juin | Tommy Mastromonaco | Optimisation des paiements de dividendes avec injections obligatoires dans le modèle brownien | [Cliquez ici](Slides2025/Tommy_Mastromonaco_Dividendes.pdf)
-
+11 juin | Raphaël Tran-Thanh | Reproductive systems: Reproductive selection in a Moran model | [Cliquez ici](Slides2025/Raphael_Tran-Thanh_Dividendes.pdf)
 ---
 
 ### Été 2024
