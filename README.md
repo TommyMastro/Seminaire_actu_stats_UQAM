@@ -25,10 +25,10 @@ ou en contactant directement les organisateurs :
 ### Horaire des présentations
 **Date** | **Présentateur/trice** | **Sujet** | **Slides**
 :---: | :---: | :---: | :---: 
-21 mai | Louis-Pierre Ménard | Les fondements mathématiques de la détection de contours et de l'analyse d'images | ---
+21 mai | Louis-Pierre Ménard | Les fondements mathématiques de la détection de contours et de l'analyse d'images
 4 juin | Tommy Mastromonaco | Optimisation des paiements de dividendes avec injections obligatoires dans le modèle brownien | [Cliquez ici](Slides2025/Tommy_Mastromonaco_Dividendes.pdf)
 11 juin | Raphaël Tran-Thanh | Reproductive systems: Reproductive selection in a Moran model | [Cliquez ici](Slides2025/Raphael_Tran-Thanh_Reproductive.pdf)
-23 juillet | Olivier Côté | A Scalable Toolbox for Exposing Indirect Discrimination in Insurance Rates
+23 juillet | Olivier Côté | A Scalable Toolbox for Exposing Indirect Discrimination in Insurance Rates | [Cliquez ici](Slides2025/Olivier_Cote_Fairness.pdf)
 ---
 
 ### Été 2024
@@ -41,8 +41,8 @@ ou en contactant directement les organisateurs :
 17 juillet | Florent Crouzet | Exploration des Techniques de Transfert d’Apprentissage sur des Données Climatiques | [Cliquez ici](Slides2024/Florent_Crouzet_TL.pdf)
 24 juillet | Ana Maria Patron | A novel approach on race prediction: Nested dichotomies applied to BISG | [Cliquez ici](Slides2024/Ana_Maria_Race.pdf)
 7 août | Agathe Fernandes Machado | From Uncertainty to Precision: Challenging Binary Classifier Performance through Calibration | [Cliquez ici](Slides2024/Agathe_Fernandes_Machado_Calibration.pdf)
-21 août | Galiane Charbonneau | Apprentissage d’arbres latents encodant la structure de dépendance extrémale de lois de Pareto multivariées | ---
-21 août | Louis-Pierre Ménard | Ça fonctionne à peu près comme ça | ---
+21 août | Galiane Charbonneau | Apprentissage d’arbres latents encodant la structure de dépendance extrémale de lois de Pareto multivariées
+21 août | Louis-Pierre Ménard | Ça fonctionne à peu près comme ça
 
 ---
 
@@ -58,5 +58,5 @@ ou en contactant directement les organisateurs :
 28 juin | Sébastien Jessup | Combinaison de modèles hétéroscédastiques dans un cadre de provisionnement de pertes | [Cliquez ici](Slides2023/Sébastien_Jessup_Combinaison.pdf)
 12 juillet | Mélanie Raymond | Introduction à l'apprentissage par renforcement | [Cliquez ici](Slides2023/Mélanie_Raymond_Apprentissage.pdf)
 2 août | Tommy Mastromonaco | L'effet de la main d'oeuvre sur l'économie à la tâche | [Cliquez ici](Slides2023/Tommy_Mastromonaco_Bassin.pdf)
-9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés | ---
-16 août | Louis-Pierre Ménard | L’analyse statistique de formes appliquée aux contours détectés dans une image | ---
+9 août | André Orelien Chuisseu Tchuisseu | Modélisation de la propagation des flammes dans une maison par l'utilisation des graphes pondérés
+16 août | Louis-Pierre Ménard | L’analyse statistique de formes appliquée aux contours détectés dans une image
