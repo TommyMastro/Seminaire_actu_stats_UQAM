@@ -29,6 +29,7 @@ ou en contactant directement les organisateurs :
 4 juin | Tommy Mastromonaco | Optimisation des paiements de dividendes avec injections obligatoires dans le modèle brownien | [Cliquez ici](Slides2025/Tommy_Mastromonaco_Dividendes.pdf)
 11 juin | Raphaël Tran-Thanh | Reproductive systems: Reproductive selection in a Moran model | [Cliquez ici](Slides2025/Raphael_Tran-Thanh_Reproductive.pdf)
 23 juillet | Olivier Côté | A Scalable Toolbox for Exposing Indirect Discrimination in Insurance Rates | [Cliquez ici](Slides2025/Olivier_Cote_Fairness.pdf)
+30 juillet | Clarence Simard | Est-ce que le disque vinyle sonne mieux que la musique numérique? La réponse des mathématiques
 ---
 
 ### Été 2024
