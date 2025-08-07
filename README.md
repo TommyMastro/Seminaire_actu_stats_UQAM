@@ -30,7 +30,7 @@ ou en contactant directement les organisateurs :
 11 juin | Raphaël Tran-Thanh | Reproductive systems: Reproductive selection in a Moran model | [Cliquez ici](Slides2025/Raphael_Tran-Thanh_Reproductive.pdf)
 23 juillet | Olivier Côté | A Scalable Toolbox for Exposing Indirect Discrimination in Insurance Rates | [Cliquez ici](Slides2025/Olivier_Cote_Fairness.pdf)
 30 juillet | Clarence Simard | Est-ce que le disque vinyle sonne mieux que la musique numérique? La réponse des mathématiques
-6 août | Agathe Fernandes Machado | A Python package for Sequential Fairness using Optimal Transport with Applications in Insurance | [Cliquez ici](Slides2024/Agathe_Fernandes_Machado_Fairness.pdf)
+6 août | Agathe Fernandes Machado | A Python package for Sequential Fairness using Optimal Transport with Applications in Insurance | [Cliquez ici](Slides2025/Agathe_Fernandes_Machado_Fairness.pdf)
 ---
 
 ### Été 2024
