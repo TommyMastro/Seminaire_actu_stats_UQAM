@@ -31,6 +31,9 @@ ou en contactant directement les organisateurs :
 23 juillet | Olivier Côté | A Scalable Toolbox for Exposing Indirect Discrimination in Insurance Rates | [Cliquez ici](Slides2025/Olivier_Cote_Fairness.pdf)
 30 juillet | Clarence Simard | Est-ce que le disque vinyle sonne mieux que la musique numérique? La réponse des mathématiques
 6 août | Agathe Fernandes Machado | A Python package for Sequential Fairness using Optimal Transport with Applications in Insurance | [Cliquez ici](Slides2025/Agathe_Fernandes_Machado_Fairness.pdf)
+13 août | Lucas Offroy | Interpretability of black box predictive models | [Cliquez ici](Slides2025/Lucas_Offroy_Interpretability.pdf)
+20 août | Alexandre Barrette
+20 août | Erik Haufs | Extreme Value Analysis based on Blockwise Top-Two Order Statistics
 ---
 
 ### Été 2024
