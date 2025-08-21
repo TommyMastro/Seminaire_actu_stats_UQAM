@@ -32,8 +32,8 @@ ou en contactant directement les organisateurs :
 30 juillet | Clarence Simard | Est-ce que le disque vinyle sonne mieux que la musique numérique? La réponse des mathématiques
 6 août | Agathe Fernandes Machado | A Python package for Sequential Fairness using Optimal Transport with Applications in Insurance | [Cliquez ici](Slides2025/Agathe_Fernandes_Machado_Fairness.pdf)
 13 août | Lucas Offroy | Interpretability of black box predictive models | [Cliquez ici](Slides2025/Lucas_Offroy_Interpretability.pdf)
-20 août | Alexandre Barrette | Le problème du secrétaire : de la théorie classique à la fenêtre coulissante
-20 août | Erik Haufs | Extreme Value Analysis based on Blockwise Top-Two Order Statistics
+20 août | Alexandre Barrette | Le problème du secrétaire : de la théorie classique à la fenêtre coulissante | [Cliquez ici](Slides2025/Alexandre_Barrette_Secretaire.pdf)
+20 août | Erik Haufs | Extreme Value Analysis based on Blockwise Top-Two Order Statistics | [Cliquez ici](Slides2025/Erik_Haufs_TopTwo.pdf)
 ---
 
 ### Été 2024
